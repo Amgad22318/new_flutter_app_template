@@ -1,0 +1,21 @@
+///////////////////////////////// Screens PushNamed Names/////////////////////////////////////////////
+
+// ignore_for_file: constant_identifier_names
+
+//USER
+const USER_START_SCREEN_R = 'USER_START_SCREEN_R';
+
+
+//DELIVERY_REPRESENTATIVE
+const DELIVERY_REPRESENTATIVE_START_SCREEN_R =
+    '/DELIVERY_REPRESENTATIVE_START_SCREEN_R';
+
+
+//MARKET_OWNER
+
+const MARKET_OWNER_CONVERSATION_SCREEN_R = '/MARKET_OWNER_CONVERSATION_SCREEN_R';
+
+//Guest
+
+const GUEST_CHOSEN_MARKET_PRICE_FILTERING_SCREEN_R =
+    '/GUEST_CHOSEN_MARKET_PRICE_FILTERING_SCREEN_R';
